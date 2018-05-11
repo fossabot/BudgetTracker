@@ -2,6 +2,7 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/diverofdark/budgettracker/branches/master/shields_badge.svg)](https://semaphoreci.com/diverofdark/budgettracker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/diverofdark/budgettracker.svg)](https://hub.docker.com/r/diverofdark/budgettracker)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDiverOfDark%2FBudgetTracker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDiverOfDark%2FBudgetTracker?ref=badge_shield)
 
 ## Описание
 BudgetTracker - это персональное self-hosted решение для управления личными финансами и инвестициями. 
@@ -105,3 +106,7 @@ Karta \*3436;\s+Pokupka:(?<sum>[\d.]*) (?<ccy>[A-Z]{3});\s+(?<what>.*);\s+
 | Taxi    	| .*UBER.*	       |
 | Taxi	    | .*Yandex\.Taxi.* |
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDiverOfDark%2FBudgetTracker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDiverOfDark%2FBudgetTracker?ref=badge_large)
